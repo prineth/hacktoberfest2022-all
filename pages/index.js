@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-900">
       <Head>
-        <title>Let's celebrate</title>
+        <title>Lets celebrate</title>
         <meta name="description" />
         <link
           rel="icon"
