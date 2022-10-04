@@ -9,5 +9,12 @@ export default function handler(req, res) {
       github: 'https://github.com/prineth',
       linkedin: 'https://linkedin.com/in/prineth-fernando',
     },
+    {
+      id: 2,
+      name: 'Shamil Keheliya',
+      img: 'https://avatars.githubusercontent.com/u/62515133?v=4',
+      github: 'https://github.com/shamilkeheliya',
+      linkedin: 'https://linkedin.com/in/shamilkeheliya',
+    },
   ]);
 }
