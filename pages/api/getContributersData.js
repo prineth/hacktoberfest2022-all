@@ -16,5 +16,12 @@ export default function handler(req, res) {
       github: "https://github.com/heyitsuzair",
       linkedin: "https://linkedin.com/in/uzair-dev",
     },
+    {
+      id: 2,
+      name: 'Ugur Atmaca',
+      img: 'https://avatars.githubusercontent.com/u/1944295?v=4',
+      github: 'https://github.com/uguratmaca',
+      linkedin: 'https://www.linkedin.com/in/atmacaugur/',
+    },
   ]);
 }
