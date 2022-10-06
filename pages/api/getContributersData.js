@@ -23,8 +23,7 @@ export default function handler(req, res) {
       img: "https://avatars.githubusercontent.com/u/44187690?s=400&u=5697ad3a5b29e193d306985aafea565d01223e41&v=4",
       github: "https://github.com/TeddyFirman",
       linkedin: "www.linkedin.com/in/teddyfirman",
-},
-
+    },
     {
       id: 4,
       name: 'Shamil Keheliya',
@@ -40,11 +39,17 @@ export default function handler(req, res) {
       linkedin: 'https://www.linkedin.com/in/deepak-gautam-14b027184/',
     },
     {
-id:6,
+      id:6,
       name: 'Ugur Atmaca',
       img: 'https://avatars.githubusercontent.com/u/1944295?v=4',
       github: 'https://github.com/uguratmaca',
       linkedin: 'https://www.linkedin.com/in/atmacaugur/',
+    },
+      id:'7',
+      name: 'Ankit Goyal',
+      img: 'https://avatars.githubusercontent.com/u/91560072?v=4',
+      github: 'https://github.com/Ankit9126',
+      linkedin: 'https://www.linkedin.com/in/ankit-goyal-3416b9228/',
     },
   ]);
 }
