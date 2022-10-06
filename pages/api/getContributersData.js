@@ -17,14 +17,14 @@ export default function handler(req, res) {
       linkedin: "https://linkedin.com/in/uzair-dev",
     },
     {
-      id: 2,
+      id: 3,
       name: 'Ugur Atmaca',
       img: 'https://avatars.githubusercontent.com/u/1944295?v=4',
       github: 'https://github.com/uguratmaca',
       linkedin: 'https://www.linkedin.com/in/atmacaugur/',
     },
     {
-      id: 2,
+      id: 4,
       name: 'Shamil Keheliya',
       img: 'https://avatars.githubusercontent.com/u/62515133?v=4',
       github: 'https://github.com/shamilkeheliya',
