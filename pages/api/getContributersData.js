@@ -45,6 +45,7 @@ export default function handler(req, res) {
       github: 'https://github.com/uguratmaca',
       linkedin: 'https://www.linkedin.com/in/atmacaugur/',
     },
+    {
       id:'7',
       name: 'Ankit Goyal',
       img: 'https://avatars.githubusercontent.com/u/91560072?v=4',
