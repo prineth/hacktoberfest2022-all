@@ -30,5 +30,12 @@ export default function handler(req, res) {
       github: 'https://github.com/shamilkeheliya',
       linkedin: 'https://linkedin.com/in/shamilkeheliya',
     },
+    {
+      id: 5,
+      name: 'Deepak',
+      img: 'https://avatars.githubusercontent.com/u/60574055?v=4',
+      github: 'https://github.com/darakhshadeepak',
+      linkedin: 'https://www.linkedin.com/in/deepak-gautam-14b027184/',
+    },
   ]);
 }
