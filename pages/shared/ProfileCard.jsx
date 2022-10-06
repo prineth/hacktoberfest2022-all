@@ -13,16 +13,23 @@ const ProfileCard = ({ name, image, github, linkedin }) => {
       <p className="font-medium text-slate-200 mx-auto">{name}</p>
       <div className="mx-auto">
         <div className="flex">
-          <Link href={github}>
-            <a target={'_blank'} className="cursor-pointer mx-5 my-5">
-              <FaGithub fill="#ffffff" size="25" />
-            </a>
-          </Link>
-          <Link href={linkedin}>
-            <a target={'_blank'} className="cursor-pointer mx-5 my-5">
-              <FaLinkedin fill="#ffffff" size="25" />
-            </a>
-          </Link>
+          <a
+            href={github}
+            target={'_blank'}
+            rel="noreferrer"
+            className="cursor-pointer mx-5 my-5"
+          >
+            <FaGithub fill="#ffffff" size="25" />
+          </a>
+
+          <a
+            href={linkedin}
+            target={'_blank'}
+            rel="noreferrer"
+            className="cursor-pointer mx-5 my-5"
+          >
+            <FaLinkedin fill="#ffffff" size="25" />
+          </a>
         </div>
       </div>
     </div>
