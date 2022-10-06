@@ -30,5 +30,12 @@ export default function handler(req, res) {
       github: 'https://github.com/shamilkeheliya',
       linkedin: 'https://linkedin.com/in/shamilkeheliya',
     },
+    {
+      id: 5,
+      name: 'Ankit Goyal',
+      img: 'https://avatars.githubusercontent.com/u/91560072?v=4',
+      github: 'https://github.com/Ankit9126',
+      linkedin: 'https://www.linkedin.com/in/ankit-goyal-3416b9228/',
+    },
   ]);
 }
