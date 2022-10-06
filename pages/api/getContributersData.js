@@ -23,5 +23,12 @@ export default function handler(req, res) {
       github: 'https://github.com/uguratmaca',
       linkedin: 'https://www.linkedin.com/in/atmacaugur/',
     },
+    {
+      id: 2,
+      name: 'Shamil Keheliya',
+      img: 'https://avatars.githubusercontent.com/u/62515133?v=4',
+      github: 'https://github.com/shamilkeheliya',
+      linkedin: 'https://linkedin.com/in/shamilkeheliya',
+    },
   ]);
 }
