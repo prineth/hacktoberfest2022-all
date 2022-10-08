@@ -52,5 +52,12 @@ export default function handler(req, res) {
       github: 'https://github.com/Ankit9126',
       linkedin: 'https://www.linkedin.com/in/ankit-goyal-3416b9228/',
     },
+    {
+      id:'8',
+      name: 'Jai Patel',
+      img: 'https://avatars.dicebear.com/api/open-peeps/jaipatel.png',
+      github: 'https://github.com/goldenPheonix02',
+      linkedin: 'https://www.linkedin.com/in/jai-patel-605900202/',
+    },
   ]);
 }
