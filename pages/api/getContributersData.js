@@ -59,5 +59,12 @@ export default function handler(req, res) {
       github: 'https://github.com/goldenPheonix02',
       linkedin: 'https://www.linkedin.com/in/jai-patel-605900202/',
     },
+    {
+      id:'9',
+      name: 'Mihin Nimnaka',
+      img: 'https://avatars.githubusercontent.com/u/39882449?v=4',
+      github: 'https://github.com/mihinN',
+      linkedin: 'www.linkedin.com/in/mihin-nimnaka',
+    },
   ]);
 }
