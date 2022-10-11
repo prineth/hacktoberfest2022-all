@@ -66,5 +66,12 @@ export default function handler(req, res) {
       github: 'https://github.com/mihinN',
       linkedin: 'www.linkedin.com/in/mihin-nimnaka',
     },
+    {
+      id: '10',
+      name: 'Muhammad Sabili Nurilhaq',
+      img: 'https://avatars.githubusercontent.com/u/73186952?v=4',
+      github: 'https://github.com/abilsabili50',
+      linkedin: 'https://www.linkedin.com/in/abilsabili50/',
+    },
   ]);
 }
