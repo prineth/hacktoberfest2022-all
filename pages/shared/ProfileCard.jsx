@@ -10,7 +10,7 @@ const ProfileCard = ({ name, image, github, linkedin }) => {
       <div className="mx-auto mt-5">
         <ProfileImg img={image} />
       </div>
-      <p className="font-medium text-slate-200 mx-auto">{name}</p>
+      <p className="font-medium text-slate-200 mx-auto font-mono">{name}</p>
       <div className="mx-auto">
         <div className="flex">
           <a

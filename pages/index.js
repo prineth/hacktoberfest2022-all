@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Footer from './components/Footer/Footer';
 import Main from './components/Main/Main';
+import Title from './components/Title/Title';
 
 export default function Home() {
   return (
@@ -14,7 +15,10 @@ export default function Home() {
         />
       </Head>
 
-      <section className="relative justify-center mx-auto my-auto">
+      <section className=" relative justify-center mx-auto my-auto">
+        <Title />
+      </section>
+      <section className=" relative justify-center mx-auto my-auto">
         <Main />
       </section>
 

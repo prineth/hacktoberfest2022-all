@@ -8,7 +8,7 @@ const Main = () => {
   if (error) return <div>Failed to load</div>;
   return (
     <div>
-      <main className="flex flex-col sm:flex-row justify-center items-center">
+      <div className="grid grid-flow-row-dense w-fit grid-cols-1 sm:grid-cols-5 grid-rows content-start mx-auto">
         {data &&
           data?.map((contibuter) => (
             <ProfileCard
@@ -19,7 +19,7 @@ const Main = () => {
               linkedin={contibuter?.linkedin}
             />
           ))}
-      </main>
+      </div>
     </div>
   );
 };
