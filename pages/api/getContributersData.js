@@ -73,5 +73,12 @@ export default function handler(req, res) {
       github: 'https://github.com/abilsabili50',
       linkedin: 'https://www.linkedin.com/in/abilsabili50/',
     },
+    {
+      id: '11',
+      name: 'Yusril Adriansyah Putra',
+      img: 'https://avatars.githubusercontent.com/u/59789707?v=4',
+      github: 'https://github.com/yusril-adr',
+      linkedin: 'https://www.linkedin.com/in/yusril-adr',
+    },
   ]);
 }
