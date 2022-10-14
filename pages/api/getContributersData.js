@@ -80,5 +80,12 @@ export default function handler(req, res) {
       github: 'https://github.com/yusril-adr',
       linkedin: 'https://www.linkedin.com/in/yusril-adr',
     },
+    {
+      id: '12',
+      name: 'Moch. Faisal Khoiruidn',
+      img: 'https://avatars.githubusercontent.com/u/39431576?v=4',
+      github: 'https://github.com/putrasena21',
+      linkedin: 'https://www.linkedin.com/in/moch-faisal-khoirudin/',
+    },
   ]);
 }
