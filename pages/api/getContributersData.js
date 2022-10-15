@@ -94,5 +94,12 @@ export default function handler(req, res) {
       github: 'https://github.com/zayyid123',
       linkedin: 'https://www.linkedin.com/in/mochamad-zayyid-09178518b/',
     },
+    {
+      id: '14',
+      name: 'Sai Kiranman Singh',
+      img: 'https://avatars.githubusercontent.com/u/78642772?v=4',
+      github: 'https://github.com/skms625',
+      linkedin: 'https://www.linkedin.com/in/sai-kiranman-singh-406959210/',
+    },
   ]);
 }
