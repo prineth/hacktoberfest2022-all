@@ -94,5 +94,12 @@ export default function handler(req, res) {
       github: 'https://github.com/zayyid123',
       linkedin: 'https://www.linkedin.com/in/mochamad-zayyid-09178518b/',
     },
+    {
+      id: '14',
+      name: 'Mochamad Sofyan',
+      img: 'https://avatars.githubusercontent.com/u/58968418?v=4',
+      github: 'https://github.com/sofyanmoch',
+      linkedin: 'https://www.linkedin.com/in/sofyanmoch/',
+    },
   ]);
 }
