@@ -87,5 +87,12 @@ export default function handler(req, res) {
       github: 'https://github.com/putrasena21',
       linkedin: 'https://www.linkedin.com/in/moch-faisal-khoirudin/',
     },
+    {
+      id: '13',
+      name: 'Mochamad Muzayyid Al Hakim',
+      img: 'https://avatars.githubusercontent.com/u/58965738?v=4',
+      github: 'https://github.com/zayyid123',
+      linkedin: 'https://www.linkedin.com/in/mochamad-zayyid-09178518b/',
+    },
   ]);
 }
