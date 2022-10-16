@@ -59,4 +59,4 @@ git push origin my-new-branch
 
 10. Congratulations 🎉 you just made a pull request!
 
-<strong>Please be advise: After you completed your task don't close the issue</strong>
+<strong><i>Please be advise: After you completed your task don't close the issue</i></strong>
