@@ -96,6 +96,9 @@ export default function handler(req, res) {
     },
     {
       id: '14',
+
+      
+
       name: 'Sai Kiranman Singh',
       img: 'https://avatars.githubusercontent.com/u/78642772?v=4',
       github: 'https://github.com/skms625',
@@ -122,6 +125,14 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/65790714?v=4',
       github: 'https://github.com/Mudi-Igbinoba',
       linkedin: 'https://www.linkedin.com/in/osamudiame-igbinoba/',
+
+    },
+    {
+    id:'18',
+      name: 'SP KariSims',
+      img: 'https://avatars.githubusercontent.com/u/79909649?s=96&v=4',
+      github: 'https://github.com/KariSims',
+      linkedin: 'https://www.linkedin.com/in/ameliefournier',
     },
   ]);
 }
