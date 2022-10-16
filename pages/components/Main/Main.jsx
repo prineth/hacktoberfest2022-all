@@ -10,9 +10,9 @@ const Main = () => {
     <div>
       <div className="grid grid-flow-row-dense w-fit grid-cols-1 sm:grid-cols-5 grid-rows content-start mx-auto">
         {data &&
-          data?.map((contibuter) => (
+          data?.map((contibuter, index) => (
             <ProfileCard
-              key={contibuter?.id}
+              key={index}
               name={contibuter?.name}
               image={contibuter?.img}
               github={contibuter?.github}
