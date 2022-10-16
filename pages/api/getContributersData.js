@@ -113,5 +113,11 @@ export default function handler(req, res) {
       github: 'https://github.com/KariSims',
       linkedin: 'https://www.linkedin.com/in/ameliefournier',
     },
+    {
+      name: 'Hari Sankar',
+      img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
+      github: 'https://github.com/h4r1337',
+      linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
+    }
   ]);
 }
