@@ -100,6 +100,7 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/78642772?v=4',
       github: 'https://github.com/skms625',
       linkedin: 'https://www.linkedin.com/in/sai-kiranman-singh-406959210/',
+    },
     {
       id: '15',
       name: 'Osamudiame Ruth Igbinoba',
@@ -114,7 +115,6 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/58968418?v=4',
       github: 'https://github.com/sofyanmoch',
       linkedin: 'https://www.linkedin.com/in/sofyanmoch/',
-
     },
     {
       id: '17',
@@ -122,6 +122,6 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/65790714?v=4',
       github: 'https://github.com/Mudi-Igbinoba',
       linkedin: 'https://www.linkedin.com/in/osamudiame-igbinoba/',
-     },
+    },
   ]);
 }
