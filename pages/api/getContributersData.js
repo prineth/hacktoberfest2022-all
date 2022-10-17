@@ -113,5 +113,11 @@ export default function handler(req, res) {
       github: 'https://github.com/KariSims',
       linkedin: 'https://www.linkedin.com/in/ameliefournier',
     },
+    {
+      name: 'Al Seny DIALLO',
+      img: 'https://avatars.githubusercontent.com/u/68450529?v=4',
+      github: 'https://github.com/alseny-diallo',
+      linkedin: 'https://www.linkedin.com/in/alseny-diallo-5a2aa01b5/',
+    },
   ]);
 }
