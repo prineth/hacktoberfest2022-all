@@ -135,7 +135,6 @@ export default function handler(req, res) {
       github: 'https://github.com/bhautikposhiya',
       linkedin: 'https://www.linkedin.com/in/bhautik-poshiya',
     },
-
     {
       name: 'Muhammad Immad',
       img: 'https://avatars.githubusercontent.com/u/115941738?v=4',
@@ -154,14 +153,17 @@ export default function handler(req, res) {
       github: '',
       linkedin: '',
     },
+   {
+      name: 'Adeeshya Ekanayake',
+      img: 'https://avatars.githubusercontent.com/u/71784535?s=400&u=2d89bd2f0d9a702f53fba120013b65d005a390c7&v=4',
+      github: 'https://github.com/Adeeshya',
+      linkedin: 'https://www.linkedin.com/in/adeeshya-ekanayake-8483651bb/',
+    },
     {
       name: 'Hari Sankar',
       img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
       github: 'https://github.com/h4r1337',
       linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
     }
-
-
-
   ]);
 }
