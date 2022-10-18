@@ -159,6 +159,13 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
       github: 'https://github.com/h4r1337',
       linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
+    },
+	
+	{
+      name: 'Ankit Yadav',
+      img: 'https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/10/Naruto-Every-Movie-In-Order-Of-Release.png?q=50&fit=contain&w=750&h=&dpr=1.5',
+      github: 'https://github.com/ankitcr7-afk',
+      linkedin: 'https://www.linkedin.com/in/ankit-yadav-7190761bb/'
     }
 
 
