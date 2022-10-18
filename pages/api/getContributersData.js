@@ -113,5 +113,11 @@ export default function handler(req, res) {
       github: 'https://github.com/KariSims',
       linkedin: 'https://www.linkedin.com/in/ameliefournier',
     },
+    {
+      name: 'Muhammad Jawad',
+      img: 'https://avatars.githubusercontent.com/u/115941738?v=4',
+      github: 'https://github.com/itsimmad',
+      linkedin: 'https://www.linkedin.com/in/muhammad-immad-7b4553207',
+    },
   ]);
 }
