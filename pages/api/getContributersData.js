@@ -186,11 +186,17 @@ export default function handler(req, res) {
       github: 'https://github.com/Xaid-vfx',
       linkedin: 'https://www.linkedin.com/in/mohd-zaid-3889801b7'
     },
-	      {
+{
       name: 'Jayath De Silva',
       img: 'https://github.com/account',
       github: 'https://github.com/JayathJSD',
       linkedin: 'https://www.linkedin.com/in/jayath-de-silva-jay/'
+    },
+  {
+      name: 'Prishith Fernando',
+      img: 'https://avatars.githubusercontent.com/u/116113828?v=4',
+      github: 'https://github.com/prishithfernando',
+      linkedin: ''
     },
 
   ]);
