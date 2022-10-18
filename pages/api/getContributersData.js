@@ -122,6 +122,26 @@ export default function handler(req, res) {
       linkedin: "https://www.linkedin.com/in/ameliefournier",
     },
     {
+
+      name: 'Al Seny DIALLO',
+      img: 'https://avatars.githubusercontent.com/u/68450529?v=4',
+      github: 'https://github.com/alseny-diallo',
+      linkedin: 'https://www.linkedin.com/in/alseny-diallo-5a2aa01b5/',
+    },
+
+    {
+      name: 'Bhautik Poshiya',
+      img: 'https://avatars.githubusercontent.com/u/79909649?s=96&v=4',
+      github: 'https://github.com/bhautikposhiya',
+      linkedin: 'https://www.linkedin.com/in/bhautik-poshiya',
+    },
+    {
+      name: 'Muhammad Immad',
+      img: 'https://avatars.githubusercontent.com/u/115941738?v=4',
+      github: 'https://github.com/itsimmad',
+      linkedin: 'https://www.linkedin.com/in/muhammad-immad-7b4553207',
+    },
+    {
       name: "Nashir Resta Fauzian",
       img: "https://avatars.githubusercontent.com/u/91722193?v=4",
       github: "https://github.com/justRizu",
@@ -139,5 +159,11 @@ export default function handler(req, res) {
       github: 'https://github.com/Adeeshya',
       linkedin: 'https://www.linkedin.com/in/adeeshya-ekanayake-8483651bb/',
     },
+    {
+      name: 'Hari Sankar',
+      img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
+      github: 'https://github.com/h4r1337',
+      linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
+    }
   ]);
 }
