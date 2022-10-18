@@ -57,14 +57,12 @@ export default function handler(req, res) {
       linkedin: 'www.linkedin.com/in/mihin-nimnaka',
     },
     {
-      id: '10',
       name: 'Muhammad Sabili Nurilhaq',
       img: 'https://avatars.githubusercontent.com/u/73186952?v=4',
       github: 'https://github.com/abilsabili50',
       linkedin: 'https://www.linkedin.com/in/abilsabili50/',
     },
     {
-      id: '11',
       name: 'Yusril Adriansyah Putra',
       img: 'https://avatars.githubusercontent.com/u/59789707?v=4',
       github: 'https://github.com/yusril-adr',
@@ -94,7 +92,6 @@ export default function handler(req, res) {
       github: 'https://github.com/Mudi-Igbinoba',
       linkedin: 'https://www.linkedin.com/in/osamudiame-igbinoba/',
     },
-
     {
       name: 'Mochamad Sofyan',
       img: 'https://avatars.githubusercontent.com/u/58968418?v=4',
@@ -112,6 +109,12 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/79909649?s=96&v=4',
       github: 'https://github.com/KariSims',
       linkedin: 'https://www.linkedin.com/in/ameliefournier',
+    },
+    {
+      name: 'avlindork',
+      img: 'https://avatars.githubusercontent.com/u/72280160?v=4',
+      github: '',
+      linkedin: '',
     },
   ]);
 }
