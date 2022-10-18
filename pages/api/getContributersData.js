@@ -136,7 +136,13 @@ export default function handler(req, res) {
       linkedin: 'https://www.linkedin.com/in/bhautik-poshiya',
     },
 
-
+    {
+      name: 'Muhammad Immad',
+      img: 'https://avatars.githubusercontent.com/u/115941738?v=4',
+      github: 'https://github.com/itsimmad',
+      linkedin: 'https://www.linkedin.com/in/muhammad-immad-7b4553207',
+    },
+    {
       name: "Nashir Resta Fauzian",
       img: "https://avatars.githubusercontent.com/u/91722193?v=4",
       github: "https://github.com/justRizu",
@@ -154,6 +160,7 @@ export default function handler(req, res) {
       github: 'https://github.com/h4r1337',
       linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
     }
+
 
 
   ]);
