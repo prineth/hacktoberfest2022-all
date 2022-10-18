@@ -67,7 +67,7 @@ export default function handler(req, res) {
       img: "https://avatars.githubusercontent.com/u/59789707?v=4",
       github: "https://github.com/yusril-adr",
       linkedin: "https://www.linkedin.com/in/yusril-adr",
-    },
+    },{
       name: 'Muhammad Sabili Nurilhaq',
       img: 'https://avatars.githubusercontent.com/u/73186952?v=4',
       github: 'https://github.com/abilsabili50',
