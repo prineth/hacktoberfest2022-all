@@ -138,6 +138,12 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
       github: 'https://github.com/h4r1337',
       linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
+    },
+    {
+      name: 'Mohd Zaid',
+      img: 'https://media-exp1.licdn.com/dms/image/C4D03AQFspq8O1ZHLaQ/profile-displayphoto-shrink_800_800/0/1611066866880?e=1671667200&v=beta&t=QRh7hGEnOfSfGoivoTtT_O-tfoe9om7R497rV0qRj_k',
+      github: 'https://github.com/Xaid-vfx',
+      linkedin: 'https://www.linkedin.com/in/mohd-zaid-3889801b7'
     }
   ]);
 }
