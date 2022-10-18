@@ -122,6 +122,13 @@ export default function handler(req, res) {
       linkedin: "https://www.linkedin.com/in/ameliefournier",
     },
     {
+
+      name: 'Al Seny DIALLO',
+      img: 'https://avatars.githubusercontent.com/u/68450529?v=4',
+      github: 'https://github.com/alseny-diallo',
+      linkedin: 'https://www.linkedin.com/in/alseny-diallo-5a2aa01b5/',
+    },
+
       name: "Nashir Resta Fauzian",
       img: "https://avatars.githubusercontent.com/u/91722193?v=4",
       github: "https://github.com/justRizu",
@@ -139,5 +146,6 @@ export default function handler(req, res) {
       github: 'https://github.com/h4r1337',
       linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
     }
+
   ]);
 }
