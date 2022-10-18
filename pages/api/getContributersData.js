@@ -133,5 +133,11 @@ export default function handler(req, res) {
       github: '',
       linkedin: '',
     },
+   {
+      name: 'Adeeshya Ekanayake',
+      img: 'https://avatars.githubusercontent.com/u/71784535?s=400&u=2d89bd2f0d9a702f53fba120013b65d005a390c7&v=4',
+      github: 'https://github.com/Adeeshya',
+      linkedin: 'https://www.linkedin.com/in/adeeshya-ekanayake-8483651bb/',
+    },
   ]);
 }
