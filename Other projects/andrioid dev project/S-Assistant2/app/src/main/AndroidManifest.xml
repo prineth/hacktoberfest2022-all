@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="assistant.genuinecoder.s_assistant">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".main.AppBase">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".main.profile.ProfileActivity"
+            android:parentActivityName=".main.AppBase" />
+        <activity
+            android:name=".main.profile.StudentRegistration"
+            android:parentActivityName=".main.profile.ProfileActivity" />
+        <activity
+            android:name=".main.notes.NoteCreate"
+            android:parentActivityName=".main.notes.NoteActivity" />
+        <activity
+            android:name=".main.attendance.AttendanceActivity"
+            android:parentActivityName=".main.AppBase" />
+        <activity
+            android:name=".main.components.ResultActivity"
+            android:parentActivityName=".main.components.CgpaActivity" />
+        <activity
+            android:name=".main.components.CgpaActivity"
+            android:parentActivityName=".main.AppBase" />
+        <activity
+            android:name=".main.notes.NoteActivity"
+            android:parentActivityName=".main.AppBase" />
+        <activity
+            android:name=".main.schedule.Scheduler"
+            android:parentActivityName=".main.AppBase" />
+        <activity
+            android:name=".main.schedule.CreateScheduleActivity"
+            android:parentActivityName=".main.schedule.Scheduler" />
+        <activity
+            android:name=".main.components.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".main.AppBase" />
+        <activity
+            android:name=".main.components.About"
+            android:parentActivityName=".main.AppBase" />
+        <activity android:name=".main.profile.EditStudentActivity"
+            android:parentActivityName=".main.AppBase"/>
+    </application>
+
+</manifest>

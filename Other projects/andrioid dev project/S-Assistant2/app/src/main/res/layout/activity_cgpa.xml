@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="14dp"
+            android:text="   ENTER YOUR SGPA  "
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+        <EditText
+            android:id="@+id/c4"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c3"
+            android:layout_alignStart="@+id/c3"
+            android:layout_alignLeft="@+id/c3"
+            android:layout_alignEnd="@+id/c3"
+            android:layout_alignRight="@+id/c3"
+            android:ems="10"
+            android:hint="Applied Physics"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/c5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c4"
+            android:layout_alignStart="@+id/c4"
+            android:layout_alignLeft="@+id/c4"
+            android:layout_alignEnd="@+id/c4"
+            android:layout_alignRight="@+id/c4"
+            android:ems="10"
+            android:hint="OOPs"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/c7"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c6"
+            android:layout_alignStart="@+id/c5"
+            android:layout_alignLeft="@+id/c5"
+            android:layout_alignEnd="@+id/c6"
+            android:layout_alignRight="@+id/c6"
+            android:ems="10"
+            android:hint="ELC Activity"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/c6"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c5"
+            android:layout_alignStart="@+id/c5"
+            android:layout_alignLeft="@+id/c5"
+            android:layout_alignEnd="@+id/c5"
+            android:layout_alignRight="@+id/c5"
+            android:ems="10"
+            android:hint="Engineering Drawing"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/c2"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c1"
+            android:layout_alignStart="@+id/c1"
+            android:layout_alignLeft="@+id/c1"
+            android:layout_alignEnd="@+id/c1"
+            android:layout_alignRight="@+id/c1"
+            android:ems="10"
+            android:hint="Prof. Communication"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/c1"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_alignStart="@+id/textView2"
+            android:layout_alignLeft="@+id/textView2"
+            android:layout_alignEnd="@+id/textView2"
+            android:layout_alignRight="@+id/textView2"
+            android:ems="10"
+            android:hint="Maths"
+            android:inputType="numberDecimal">
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/c3"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c2"
+            android:layout_alignStart="@+id/c2"
+            android:layout_alignLeft="@+id/c2"
+            android:layout_alignEnd="@+id/c2"
+            android:layout_alignRight="@+id/c2"
+            android:ems="10"
+            android:hint="Elec. Engineering"
+            android:inputType="numberDecimal"></EditText>
+
+        <Button
+            android:id="@+id/b3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c7"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@color/colorPrimaryDark"
+            android:text="FIND"
+            android:textColor="#ffffff"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+</RelativeLayout>
