@@ -178,6 +178,12 @@ export default function handler(req, res) {
       github: "https://github.com/ankitcr7-afk",
       linkedin: "https://www.linkedin.com/in/ankit-yadav-7190761bb/",
     },
+{
+      name: 'Lifan Dwinur Andrianto',
+      img: 'https://avatars.githubusercontent.com/u/85450625?v=4',
+      github: 'https://github.com/lifanandriand',
+      linkedin: 'https://www.linkedin.com/in/lifandwinur/'
+},
 
     {
       name: "Mohd Zaid",
