@@ -209,5 +209,12 @@ export default function handler(req, res) {
       github: "https://github.com/WildanR19",
       linkedin: "https://www.linkedin.com/in/wildan-rozaqi-575806204/",
     },
+    {
+      name: 'Sunali Rambukwella',
+      img: 'https://avatars.githubusercontent.com/u/44220456?v=4',
+      github: 'https://github.com/sunalii',
+      linkedin: 'https://linkedin.com/in/sunali-rambukwella',
+    },
+
   ]);
 }
