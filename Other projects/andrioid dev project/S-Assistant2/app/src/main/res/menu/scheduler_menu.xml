@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mlp.arv.projectx.test.modulex.Main2Activity">
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:title="Refresh"
+        android:onClick="refresh"
+        app:showAsAction="never" />
+</menu>

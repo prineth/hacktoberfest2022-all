@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#e4e4e4">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:background="#f4f4f4"
+    android:elevation="5dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/t"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="55dp"
+        android:text="Your SGPA"
+        android:textSize="40dp"/>
+    <EditText android:id="@+id/sgpa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/t"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:editable="false"
+        android:freezesText="true"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="numberDecimal"/>
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/t"
+        android:layout_alignRight="@+id/t"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_below="@+id/sgpa"
+        android:gravity="center"
+        android:layout_marginTop="52dp"
+        android:text="With Percentage"
+        android:textSize="25dp"/>
+    <EditText
+        android:id="@+id/percentage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sgpa"
+        android:layout_below="@+id/t3"
+        android:layout_marginTop="48dp"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="numberDecimal">
+        <requestFocus/>
+   </EditText>
+</RelativeLayout>
+</RelativeLayout>
