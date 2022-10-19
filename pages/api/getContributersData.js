@@ -198,6 +198,12 @@ export default function handler(req, res) {
       github: 'https://github.com/prishithfernando',
       linkedin: ''
     },
+{
+      name: 'Lifan Dwinur Andrianto',
+      img: 'https://avatars.githubusercontent.com/u/85450625?v=4',
+      github: 'https://github.com/lifanandriand',
+      linkedin: 'https://www.linkedin.com/in/lifandwinur/'
+},
 
   ]);
 }
