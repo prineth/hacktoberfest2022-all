@@ -198,6 +198,12 @@ export default function handler(req, res) {
       github: 'https://github.com/prishithfernando',
       linkedin: ''
     },
+    {
+      name: 'Sunali Rambukwella',
+      img: 'https://avatars.githubusercontent.com/u/44220456?v=4',
+      github: 'https://github.com/sunalii',
+      linkedin: 'https://linkedin.com/in/sunali-rambukwella',
+    },
 
   ]);
 }
