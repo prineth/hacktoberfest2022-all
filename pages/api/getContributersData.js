@@ -221,13 +221,18 @@ export default function handler(req, res) {
       github: 'https://github.com/MohakSinghania',
       linkedin: 'https://www.linkedin.com/in/mohak-singhania-9a1160215/',
     },
-    
     {
       name: 'Shreyansh Goyal',
       img: 'https://ibb.co/Vg84nht',
       github: 'https://github.com/101noobcoder101',
       linkedin: 'https://www.linkedin.com/in/shreyansh-goyal-9b79b8229/',
     },
-
+	{
+      name: "Nilesh Ashok Ghone",
+      img: "https://avatars.githubusercontent.com/u/33826370?v=4",
+      github: "https://github.com/Nilesh-Ghone",
+      linkedin: "https://in.linkedin.com/in/nilesh-ghone-20746013",
+    }
+	
   ]);
 }
