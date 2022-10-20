@@ -215,6 +215,12 @@ export default function handler(req, res) {
       github: 'https://github.com/sunalii',
       linkedin: 'https://linkedin.com/in/sunali-rambukwella',
     },
+    {
+      name: 'Mohak SInghania',
+      img: 'https://media-exp1.licdn.com/dms/image/D4D03AQHNn5GMfjQn-g/profile-displayphoto-shrink_200_200/0/1664468057865?e=1671667200&v=beta&t=uiYkQBx_B3Yv4ziMFlX8I9VFzNRyTXnx-i84Mt_o7A0',
+      github: 'https://github.com/MohakSinghania',
+      linkedin: 'https://www.linkedin.com/in/mohak-singhania-9a1160215/',
+    },
 
   ]);
 }
