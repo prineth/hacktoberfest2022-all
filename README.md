@@ -13,17 +13,17 @@ Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](ht
 
 ## Steps For Contribution
 
-    1. Fork this repo
-    2. Star this repo
-    3. Go to `pages` ➡️ `api` ➡️ `getContributersData.js` 
-    4. Add your details in `getContributersData.js` 
-    5. commit the code
-    6. Make pull request
+1. Fork this repo
+2. Star this repo
+3. Go to <code>pages</code> ➡️ <code>api</code> ➡️ <code>getContributersData.js</code> 
+4. Add your details in <code>getContributersData.js</code> 
+5. commit the code
+6. Make pull request
     
 
 ## For Freshers
 
-1. Complete the registartion over https://hacktoberfest.com/
+1. Complete the registration over https://hacktoberfest.com/
 2. Fork this repository.
 3. Clone on your local machine.
 
