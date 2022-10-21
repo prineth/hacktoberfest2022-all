@@ -232,7 +232,12 @@ export default function handler(req, res) {
       img: "https://avatars.githubusercontent.com/u/33826370?v=4",
       github: "https://github.com/Nilesh-Ghone",
       linkedin: "https://in.linkedin.com/in/nilesh-ghone-20746013",
+    },
+    {
+      name: 'Atharv Phadnis',
+      img: 'https://avatars.githubusercontent.com/u/31766648?v=4',
+      github: 'https://github.com/Athi223',
+      linkedin: 'https://www.linkedin.com/in/atharv-phadnis',
     }
-	
   ]);
 }
