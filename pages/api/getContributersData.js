@@ -238,6 +238,12 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/31766648?v=4',
       github: 'https://github.com/Athi223',
       linkedin: 'https://www.linkedin.com/in/atharv-phadnis',
+    },
+    {
+      name: 'Greggy Gianini Firmansyah',
+      img: 'https://avatars.githubusercontent.com/u/34617290?v=4',
+      github: 'https://github.com/greggygf',
+      linkedin: 'https://www.linkedin.com/in/greggygf/',
     }
   ]);
 }
