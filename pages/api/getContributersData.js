@@ -238,6 +238,12 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/31766648?v=4',
       github: 'https://github.com/Athi223',
       linkedin: 'https://www.linkedin.com/in/atharv-phadnis',
+    },
+    {
+      name: 'Lata',
+      img: 'https://avatars.githubusercontent.com/u/31766648?v=4',
+      github: 'https://github.com/lata-11',
+      linkedin: 'https://www.linkedin.com/in/lata-800988222',
     }
   ]);
 }
