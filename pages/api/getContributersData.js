@@ -168,7 +168,7 @@ export default function handler(req, res) {
 		{
 			name: "Jayath De Silva",
 			img: "https://github.com/account",
-			github: "https://github.com/JayathJSD",
+			github: "https://avatars.githubusercontent.com/u/92852913?v=4",
 			linkedin: "https://www.linkedin.com/in/jayath-de-silva-jay/",
 		},
 		{
