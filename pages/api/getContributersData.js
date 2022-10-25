@@ -257,5 +257,12 @@ export default function handler(req, res) {
       github: "https://github.com/ShubhamGoyal7125",
       linkedin: "https://www.linkedin.com/in/shubham-goyal-7987461b8/",
     },
+    {
+      name: 'Chethana',
+      img: 'https://avatars.githubusercontent.com/u/71955126?s=400&u=c58e81790a5153a62fe632b4768f37c29107d07b&v=4',
+      github: 'https://github.com/dhavaji',
+      linkedin: 'www.linkedin.com/in/chethana-wickrama-arachchi',
+    }
+
   ]);
 }
