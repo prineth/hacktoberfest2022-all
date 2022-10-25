@@ -250,6 +250,12 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/31766648?v=4',
       github: 'https://github.com/lata-11',
       linkedin: 'https://www.linkedin.com/in/lata-800988222',
-    }
+    },
+    {
+      name: "Shubham Goyal",
+      img: "https://avatars.githubusercontent.com/u/85388284?v=4",
+      github: "https://github.com/ShubhamGoyal7125",
+      linkedin: "https://www.linkedin.com/in/shubham-goyal-7987461b8/",
+    },
   ]);
 }
