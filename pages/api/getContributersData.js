@@ -69,24 +69,6 @@ export default function handler(req, res) {
 			linkedin: "https://www.linkedin.com/in/yusril-adr",
 		},
 		{
-			name: "Yusril Adriansyah Putra",
-			img: "https://avatars.githubusercontent.com/u/59789707?v=4",
-			github: "https://github.com/yusril-adr",
-			linkedin: "https://www.linkedin.com/in/yusril-adr",
-		},
-		{
-			name: "Muhammad Sabili Nurilhaq",
-			img: "https://avatars.githubusercontent.com/u/73186952?v=4",
-			github: "https://github.com/abilsabili50",
-			linkedin: "https://www.linkedin.com/in/abilsabili50/",
-		},
-		{
-			name: "Yusril Adriansyah Putra",
-			img: "https://avatars.githubusercontent.com/u/59789707?v=4",
-			github: "https://github.com/yusril-adr",
-			linkedin: "https://www.linkedin.com/in/yusril-adr",
-		},
-		{
 			name: "Moch. Faisal Khoiruidn",
 			img: "https://avatars.githubusercontent.com/u/39431576?v=4",
 			github: "https://github.com/putrasena21",
@@ -115,12 +97,6 @@ export default function handler(req, res) {
 			img: "https://avatars.githubusercontent.com/u/58968418?v=4",
 			github: "https://github.com/sofyanmoch",
 			linkedin: "https://www.linkedin.com/in/sofyanmoch/",
-		},
-		{
-			name: "Osamudiame Ruth Igbinoba",
-			img: "https://avatars.githubusercontent.com/u/65790714?v=4",
-			github: "https://github.com/Mudi-Igbinoba",
-			linkedin: "https://www.linkedin.com/in/osamudiame-igbinoba/",
 		},
 		{
 			name: "SP KariSims",
@@ -245,7 +221,7 @@ export default function handler(req, res) {
 		},
 		{
 			name: "Lata",
-			img: "https://avatars.githubusercontent.com/u/31766648?v=4",
+			img: "https://avatars.githubusercontent.com/u/103296906?v=4",
 			github: "https://github.com/lata-11",
 			linkedin: "https://www.linkedin.com/in/lata-800988222",
 		},
