@@ -134,7 +134,6 @@ export default function handler(req, res) {
 			github: "https://github.com/alseny-diallo",
 			linkedin: "https://www.linkedin.com/in/alseny-diallo-5a2aa01b5/",
 		},
-
 		{
 			name: "Bhautik Poshiya",
 			img: "https://avatars.githubusercontent.com/u/79909649?s=96&v=4",
@@ -184,7 +183,6 @@ export default function handler(req, res) {
 			github: "https://github.com/lifanandriand",
 			linkedin: "https://www.linkedin.com/in/lifandwinur/",
 		},
-
 		{
 			name: "Mohd Zaid",
 			img: "https://media-exp1.licdn.com/dms/image/C4D03AQFspq8O1ZHLaQ/profile-displayphoto-shrink_800_800/0/1611066866880?e=1671667200&v=beta&t=QRh7hGEnOfSfGoivoTtT_O-tfoe9om7R497rV0qRj_k",
@@ -269,5 +267,12 @@ export default function handler(req, res) {
 			github: "https://github.com/Lowkey-Emmanuel",
 			linkedin: "https://www.linkedin.com/in/emmanuel-diatta-807462156/",
 		},
-	]);
+    {
+      name: 'Chathura',
+      img: 'https://github.com/account',
+      github: 'https://github.com/PRO-GUNE',
+      linkedin: 'www.linkedin.com/in/chathura-gunasekera-633561215',
+    }
+
+  ]);
 }
