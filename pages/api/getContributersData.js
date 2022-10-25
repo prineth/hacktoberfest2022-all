@@ -191,13 +191,13 @@ export default function handler(req, res) {
 		},
 		{
 			name: "Mohak SInghania",
-			img: "https://media-exp1.licdn.com/dms/image/D4D03AQHNn5GMfjQn-g/profile-displayphoto-shrink_200_200/0/1664468057865?e=1671667200&v=beta&t=uiYkQBx_B3Yv4ziMFlX8I9VFzNRyTXnx-i84Mt_o7A0",
+			img: "https://avatars.githubusercontent.com/u/112251355?v=4",
 			github: "https://github.com/MohakSinghania",
 			linkedin: "https://www.linkedin.com/in/mohak-singhania-9a1160215/",
 		},
 		{
 			name: "Shreyansh Goyal",
-			img: "https://ibb.co/Vg84nht",
+			img: "https://i.ibb.co/n7SJdVb/1641913765443.jpg",
 			github: "https://github.com/101noobcoder101",
 			linkedin: "https://www.linkedin.com/in/shreyansh-goyal-9b79b8229/",
 		},
@@ -245,7 +245,7 @@ export default function handler(req, res) {
 		},
     {
       name: 'Chathura',
-      img: 'https://github.com/account',
+      img: 'https://avatars.githubusercontent.com/u/61589293?v=4',
       github: 'https://github.com/PRO-GUNE',
       linkedin: 'www.linkedin.com/in/chathura-gunasekera-633561215',
     }
