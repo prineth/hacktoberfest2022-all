@@ -255,5 +255,9 @@ export default function handler(req, res) {
       github: 'https://github.com/PhilipBDev',
       linkedin: 'https://www.linkedin.com/in/philiprbrown/',
     },
+     {
+      name: 'Bimalka Nugapitiya',
+      github: 'https://github.com/Bimi98',
+    },
   ])
 }
