@@ -259,5 +259,11 @@ export default function handler(req, res) {
       name: 'Bimalka Nugapitiya',
       github: 'https://github.com/Bimi98',
     },
+      {
+      name: 'SHEHEER ALI',
+      img: 'https://avatars.githubusercontent.com/u/67970285?v=4',
+      github: 'https://github.com/SHEHEERALIZX',
+      linkedin: 'https://www.linkedin.com/in/sheheeralizx/',
+    },
   ])
 }
