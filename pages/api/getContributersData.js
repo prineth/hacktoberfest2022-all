@@ -265,5 +265,13 @@ export default function handler(req, res) {
       github: 'https://github.com/SHEHEERALIZX',
       linkedin: 'https://www.linkedin.com/in/sheheeralizx/',
     },
+    {
+		"name": "Berika Şener",
+		"gh_username": "berikasener",
+		"place": "Turkiye",
+		"current_pos": "Linux System Administrator",
+		"image": null,
+		"bio": "Trying to learn Linux and also a front-end developer."
+	}
   ])
 }
