@@ -266,6 +266,12 @@ export default function handler(req, res) {
       linkedin: 'https://www.linkedin.com/in/sheheeralizx/',
     },
     {
+      name: 'Tapan Dabhi',
+      img: 'https://avatars.githubusercontent.com/u/37927312?s=400&u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4',
+      github: 'https://github.com/dabhitapan',
+      linkedin: 'https://www.linkedin.com/in/tapan-dabhi/',
+    },
+    {
 		"name": "Berika Şener",
 		"gh_username": "berikasener",
 		"place": "Turkiye",
@@ -277,6 +283,17 @@ export default function handler(req, res) {
       name: 'Urmil Bhavsar',
       github: 'https://github.com/urmil22',
       linkedin: 'https://www.linkedin.com/in/urmil-bhavsar/',
+    },
+      {
+      name: 'Arnav Agarwal',
+      github: 'https://github.com/arnav0929',
+      bio: 'learning backend development.'
+    },
+	{
+      name: 'Parikshit Hiwase',
+      img: 'https://avatars.githubusercontent.com/u/55256204?s=400&u=a4769706a829190dc94496a4d7dcc0604693d204&v=4',
+      github: 'https://github.com/Parikshit001',
+      linkedin: 'https://www.linkedin.com/in/parikshit-hiwase-a238b320b/',
     },
   ])
 }
