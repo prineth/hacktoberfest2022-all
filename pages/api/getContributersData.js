@@ -266,6 +266,12 @@ export default function handler(req, res) {
       linkedin: 'https://www.linkedin.com/in/sheheeralizx/',
     },
     {
+      name: 'Tapan Dabhi',
+      img: 'https://avatars.githubusercontent.com/u/37927312?s=400&u=06270e19c6204ab3c0ecde8bd39f6aecd63fc04e&v=4',
+      github: 'https://github.com/dabhitapan',
+      linkedin: 'https://www.linkedin.com/in/tapan-dabhi/',
+    },
+    {
 		"name": "Berika Şener",
 		"gh_username": "berikasener",
 		"place": "Turkiye",
