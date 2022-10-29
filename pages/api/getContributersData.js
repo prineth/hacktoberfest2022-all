@@ -279,6 +279,11 @@ export default function handler(req, res) {
 		"image": null,
 		"bio": "Trying to learn Linux and also a front-end developer."
 	},
+	  {
+      name: 'Urmil Bhavsar',
+      github: 'https://github.com/urmil22',
+      linkedin: 'https://www.linkedin.com/in/urmil-bhavsar/',
+    },
       {
       name: 'Arnav Agarwal',
       github: 'https://github.com/arnav0929',
