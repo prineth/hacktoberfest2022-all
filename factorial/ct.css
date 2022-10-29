@@ -1,0 +1,70 @@
+
+*{
+    box-sizing: border-box;
+    background-color:LightGrey;
+}
+
+body {
+    font-family: NimbusSanL, Arial, sans-serif;
+    text-align: center;
+    color:#202020;
+    background-color:Silver;
+}
+
+
+div {
+    border:1px solid SlateGrey;
+    border-radius:5px;
+    margin: 20px;
+}
+
+
+.input {
+    border:none;
+    text-align:right;
+}
+
+p {
+    text-align:right;
+    padding: 20px;
+}
+
+input, button {
+    font:inherit;
+    color:Blue;
+    width:100px;
+    padding-left: 5px;
+}
+
+button {
+    color:DarkSlateGrey;
+    width:200px
+}
+
+.strong {
+    font-family: NimbusSanL, Arial, sans-serif;
+    font-size:1.2em;
+    color:Green;
+    text-decoration:bold;
+}
+
+footer{
+    padding-top:10px;
+    text-align:center;
+    font-size:10px;
+    color:LightSlateGrey;
+}
+
+
+[class*="column"] {
+    width: 80%;
+    display:inline-block;
+    height:60vh;
+    font-size:1.5em;
+}
+
+@media screen and (min-width:600px) {
+    [class*="column"] {
+        width:50%;
+    }
+}
