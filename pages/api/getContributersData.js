@@ -276,6 +276,7 @@ export default function handler(req, res) {
 	  {
       name: 'Urmil Bhavsar',
       github: 'https://github.com/urmil22',
+      linkedin: 'https://www.linkedin.com/in/urmil-bhavsar/',
     },
   ])
 }
