@@ -272,6 +272,10 @@ export default function handler(req, res) {
 		"current_pos": "Linux System Administrator",
 		"image": null,
 		"bio": "Trying to learn Linux and also a front-end developer."
-	}
+	},
+	  {
+      name: 'Urmil Bhavsar',
+      github: 'https://github.com/urmil22',
+    },
   ])
 }
