@@ -272,6 +272,11 @@ export default function handler(req, res) {
 		"current_pos": "Linux System Administrator",
 		"image": null,
 		"bio": "Trying to learn Linux and also a front-end developer."
-	}
+	},
+      {
+      name: 'Arnav Agarwal',
+      github: 'https://github.com/arnav0929',
+      bio: 'learning backend development.'
+    }
   ])
 }
