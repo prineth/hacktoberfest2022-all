@@ -295,5 +295,10 @@ export default function handler(req, res) {
       github: 'https://github.com/Parikshit001',
       linkedin: 'https://www.linkedin.com/in/parikshit-hiwase-a238b320b/',
     },
+	  	{
+      name: 'Rishabh Pandey',
+      img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
+      github: 'https://github.com/rishabh-pandey-393',
+    },
   ])
 }
