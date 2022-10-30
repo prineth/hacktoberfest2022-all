@@ -302,8 +302,13 @@ export default function handler(req, res) {
     },
     {
       name: 'Shrishti Agarwal',
-      github: 'https://github.com/Shrishti25'
-      linkedin:''
+      github: 'https://github.com/Shrishti25',
+      linkedin:'',
+    },
+    {
+      Name: 'Samarth Sinha',
+      github: 'https://github.com/Samarth0409',
+      linkedin:'https://www.linkedin.com/in/samarth-sinha-b079921b7/',
     },
     {
       name: 'Vanra Agarwal',
