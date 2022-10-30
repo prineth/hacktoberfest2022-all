@@ -289,19 +289,23 @@ export default function handler(req, res) {
       github: 'https://github.com/arnav0929',
       bio: 'learning backend development.'
     },
-	{
+	  {
       name: 'Parikshit Hiwase',
       img: 'https://avatars.githubusercontent.com/u/55256204?s=400&u=a4769706a829190dc94496a4d7dcc0604693d204&v=4',
       github: 'https://github.com/Parikshit001',
       linkedin: 'https://www.linkedin.com/in/parikshit-hiwase-a238b320b/',
     },
-	  	{
+	  {
       name: 'Rishabh Pandey',
       img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
       github: 'https://github.com/rishabh-pandey-393',
     },
     {
-
+      name: 'Shrishti Agarwal',
+      github: 'https://github.com/Shrishti25'
+      linkedin:''
+    },
+    {
       name: 'Vanra Agarwal',
       github: 'https://github.com/vanra0929',
       bio: 'learning full-stack development.'
