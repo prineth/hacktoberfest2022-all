@@ -300,5 +300,9 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
       github: 'https://github.com/rishabh-pandey-393',
     },
+     {
+      name: 'Shrishti Agarwal',
+      github: 'https://github.com/Shrishti25'
+    }
   ])
 }
