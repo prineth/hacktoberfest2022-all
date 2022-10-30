@@ -301,9 +301,15 @@ export default function handler(req, res) {
       github: 'https://github.com/rishabh-pandey-393',
     },
     {
+
       name: 'Vanra Agarwal',
       github: 'https://github.com/vanra0929',
       bio: 'learning full-stack development.'
+    },
+    {
+      name: 'Renuka Rajpuria',
+      linkedin: 'https://www.linkedin.com/in/renukarajpuria/',
+      github: 'https://github.com/renuka-rajpuria',
     },
   ])
 }
