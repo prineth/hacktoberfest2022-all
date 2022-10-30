@@ -284,11 +284,13 @@ export default function handler(req, res) {
     },
     {
       name: "Urmil Bhavsar",
+      img:'https://avatars.githubusercontent.com/u/83802022?v=4',
       github: "https://github.com/urmil22",
       linkedin: "https://www.linkedin.com/in/urmil-bhavsar/",
     },
     {
       name: "Arnav Agarwal",
+      img:'https://avatars.githubusercontent.com/u/73690811?v=4',
       github: "https://github.com/arnav0929",
       bio: "learning backend development.",
     },
@@ -305,21 +307,25 @@ export default function handler(req, res) {
     },
     {
       name: "Shrishti Agarwal",
+      img:'https://avatars.githubusercontent.com/u/64461028?v=4',
       github: "https://github.com/Shrishti25",
       linkedin: "",
     },
     {
       Name: "Samarth Sinha",
+      img:'https://avatars.githubusercontent.com/u/66549823?v=4',
       github: "https://github.com/Samarth0409",
       linkedin: "https://www.linkedin.com/in/samarth-sinha-b079921b7/",
     },
     {
       name: "Vanra Agarwal",
+      img:'https://avatars.githubusercontent.com/u/114521707?v=4',
       github: "https://github.com/vanra0929",
       bio: "learning full-stack development.",
     },
     {
       name: "Renuka Rajpuria",
+      img:'https://avatars.githubusercontent.com/u/91603618?v=4',
       linkedin: "https://www.linkedin.com/in/renukarajpuria/",
       github: "https://github.com/renuka-rajpuria",
     },
