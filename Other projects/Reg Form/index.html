@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Western Valley Farms</h1>
+
+    <!-- Current Date
+    o Client Name
+    o Street Address
+    o Postal Code
+    o Phone Number (Include Radio Button choice for business or personal)
+    o Email
+    o Choice of Pickup or Delivery -->
+    <!-- <span class="formerror"> Hello harshit </span></br> -->
+
+    <form id="form" action="/myaction.php" name="myForm" onsubmit="return validationForm()" method="post">
+        <label for="Currentdate">Current Date:</label>
+        <input type="date" id="Currentdate" name="Currentdate"><br><br>&ensp;&ensp;&ensp;&ensp;
+        <label for="clientName">Client Name:</label>
+        <input type="text" id="clientName" name="clientName" placeholder="Enter your name"><br><br>&ensp;&ensp;&ensp;
+        <label for="streetAddr">Street Address:</label>
+        <input type="text" id="streetAddr" name="streetAddr" placeholder="Enter your street address"><br><br>&ensp;&ensp;&ensp;&ensp;&ensp;
+        <label for="postalCode">Postal Code:</label>
+        <input type="number" id="postalCode" name="postalCode" placeholder="Enter your postal code"><br><br>&ensp;&ensp;
+        <input type="radio" id="business" name="phonenumber" value="business">
+        <label for="business">Business</label>
+        <input type="radio" id="personal" name="phonenumber" value="personal">
+        <label for="personal">Personal</label><br><br>&ensp;&ensp;
+        <label for="phonenumber">Phone Number:</label>
+        <input type="number" id="phonenumber" name="phonenumber" placeholder="Enter your phone no."><br><br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" placeholder="Enter your email"><br><br>
+        <!-- 
+        Vegetable Hamper 20kg: $30.00
+        Fruit Hamper 10kg: $20.00
+        Fresh Chickens $7.00 per Chicken
+        Pork $5/kg 
+        -->
+
+        <label for="food">Choose Your Food:</label><br><br>
+
+        <label for="vegHamper">Vegetable Hamper:</label>
+        <input type="number" id="number" name="vegHamper" placeholder="Enter the quantity"><br><br>&ensp;&ensp;&ensp;
+        <label for="fruHamper">Fruit Hamper:</label>
+        <input type="number" inumbamper" name="fruHamper" placeholder="Enter the quantity"><br><br>&ensp;&ensp;
+        <label for="freshChicken">Fresh Chicken:</label>
+        <input type="number" id="freshChicken" name="freshChicken" placeholder="Enter the quantity"><br><br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+        <label for="pork">Pork:</label>
+        <input type="number" id="pork" name="pork" placeholder="Enter the quantity"><br><br>&ensp;&ensp;&ensp;
+
+
+        <label for="orderChoice">Order Choice:</label>
+        <input type="radio" id="pickup" name="orderChoice" value="pickup">
+        <label for="pickup">Pickup</label>
+        <input type="radio" id="delivery" name="orderChoice" value="delivery">
+        <label for="delivery">Delivery</label><br><br>
+        
+        
+        
+        <input type="submit" value="Submit">
+
+
+    </form>
+
+
+
+    <script>
+
+        function seterror(id,error){
+            element = document.getElementById(id);
+            element.getElementByClassName('formerror')[0].innerHTML = error;
+        }
+
+        function validationForm(){
+            var returnval = true;
+            var name = document.forms['myForm']["clientName"].value;
+            // console.log(name);
+            if(name.length==0){
+                seterror("name","Fill up the name");
+                return false;
+            }
+
+            // if(name){
+            //     seterror("name","Fill up the name");
+            //     return false;
+            // }
+
+            return false;
+        }
+
+    </script>
+
+
+
+</body>
+</html>
