@@ -329,5 +329,11 @@ export default function handler(req, res) {
       linkedin: "https://www.linkedin.com/in/renukarajpuria/",
       github: "https://github.com/renuka-rajpuria",
     },
+    {
+      name: "Anjan Diyora",
+      img:'https://avatars.githubusercontent.com/u/49095535?v=4',
+      linkedin: "https://www.linkedin.com/in/anjandiyora/",
+      github: "https://github.com/Anjan50",
+    },
   ]);
 }
