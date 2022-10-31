@@ -336,10 +336,17 @@ export default function handler(req, res) {
       github: "https://github.com/Anjan50",
     },
     {
+
       name: "Pubudu Rathnayake",
       img: "https://avatars.githubusercontent.com/u/21281763?v=4",
       github: "https://github.com/PubuduR",
       linkedin: "https://linkedin.com",
-    }
+    },
+    {
+      name: "hinsxd",
+      img:'https://avatars.githubusercontent.com/u/8574962?v=4',
+      linkedin: "",
+      github: "https://github.com/hinsxd",
+    },
   ]);
 }
