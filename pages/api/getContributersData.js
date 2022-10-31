@@ -335,5 +335,11 @@ export default function handler(req, res) {
       linkedin: "https://www.linkedin.com/in/anjandiyora/",
       github: "https://github.com/Anjan50",
     },
+    {
+      name: "Pubudu Rathnayake",
+      img: "https://avatars.githubusercontent.com/u/21281763?v=4",
+      github: "https://github.com/PubuduR",
+      linkedin: "https://linkedin.com",
+    }
   ]);
 }
