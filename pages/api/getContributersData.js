@@ -335,5 +335,11 @@ export default function handler(req, res) {
       linkedin: "https://www.linkedin.com/in/anjandiyora/",
       github: "https://github.com/Anjan50",
     },
+    {
+      name: "hinsxd",
+      img:'https://avatars.githubusercontent.com/u/8574962?v=4',
+      linkedin: "",
+      github: "https://github.com/hinsxd",
+    },
   ]);
 }
