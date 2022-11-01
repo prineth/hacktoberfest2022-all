@@ -21,6 +21,7 @@ export default function Home() {
       <section className=" relative justify-center mx-auto my-auto">
         <Main />
       </section>
+      <h1>Hii...</h1>
 
       <Footer />
     </div>
