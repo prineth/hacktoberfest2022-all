@@ -354,5 +354,11 @@ export default function handler(req, res) {
       linkedin: "",
       github: "https://github.com/hinsxd",
     },
+    {
+      name: "Chamod Perera",
+      img:'https://avatars.githubusercontent.com/u/68799095?s=400&u=9f37dc33353e9db9039e265a603e616fe60c3b8e&v=4',
+      linkedin: "https://www.linkedin.com/in/chamodperera/",
+      github: "https://github.com/chamodtharakaperera",
+    },
   ]);
 }
