@@ -10,7 +10,7 @@ export default function handler(req, res) {
     },
     {
       name: "Hiruna Gayashan",
-      img:'https://avatars.githubusercontent.com/u/8574962?v=4',
+      img:'https://avatars.githubusercontent.com/u/64424930?v=4',
       linkedin: "https://www.linkedin.com/in/hiruna-gayashan-9387241a7/",
       github: "https://github.com/Hirunagrad",
     },
@@ -353,6 +353,12 @@ export default function handler(req, res) {
       img:'https://avatars.githubusercontent.com/u/8574962?v=4',
       linkedin: "",
       github: "https://github.com/hinsxd",
+    },
+    {
+      name: "Ishanka Pramidu",
+      img:'https://avatars.githubusercontent.com/u/79820853?v=4',
+      linkedin: "https://www.linkedin.com/in/ishankapramidu/",
+      github: "https://github.com/Lakshan555",
     },
     {
       name: "Chamod Perera",
