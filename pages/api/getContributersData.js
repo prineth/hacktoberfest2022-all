@@ -9,6 +9,12 @@ export default function handler(req, res) {
       linkedin: "https://linkedin.com/in/prineth-fernando",
     },
     {
+      name: "Wenupa Mandinu",
+      img:'https://avatars.githubusercontent.com/u/64647059?v=4',
+      linkedin: "https://www.linkedin.com/in/wenupamandinu/",
+      github: "https://github.com/wenupa",
+    },
+    {
       name: "Hiruna Gayashan",
       img:'https://avatars.githubusercontent.com/u/64424930?v=4',
       linkedin: "https://www.linkedin.com/in/hiruna-gayashan-9387241a7/",
